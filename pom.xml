@@ -8,7 +8,7 @@
 	<name>ServletDbTest</name>
     
 	<build>
-	<!--finalName>ROOT</finalName-->
+	<finalName>ROOT</finalName>
 		<!--sourceDirectory>src</sourceDirectory-->
 		<plugins>
 			<plugin>
